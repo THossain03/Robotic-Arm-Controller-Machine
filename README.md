@@ -1,2 +1,2 @@
-# Robotic-Arm-Controller-for-Hydraulic-Machines
+# Robotic-Arm-Controller-Machine
 The following code, implemented with VHDL, can be utilized for making robotic arm machines. They make use of sequential logic and Moore and Mealy Circuit designs to find ways for the arm to continuously toggle in position, extension, and grappling of the arm until the target positions are reached. Error-handling systems have also been implemented, and the code has also been quality tested through synthesis and elaboration methods using the Quartus Prime software. I hope you find this software useful for any of the machinery you may come to design.
